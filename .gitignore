@@ -1,0 +1,6 @@
+#binaries
+dist/
+yarn-error.log
+
+#editors
+.DS_Store
