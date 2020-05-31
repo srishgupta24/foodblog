@@ -1,5 +1,5 @@
-The boilerplate comes with webpack, and react installed along with enzyme as a testing suite and chai for asserions
+Food Blog
 
-NPM install to download all the modules
+A react application where various recipes and food images are available viewers.
 
-The environment also uses babel-eslint as a linter core for es-lint, the configuration for which can be changed in .eslintrc
+Start date: May 30th 2020
