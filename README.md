@@ -1,4 +1,4 @@
-Food Blog
+## Food Blog
 
 A react application where various recipes and food images are available viewers.
 
