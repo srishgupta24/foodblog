@@ -1,6 +1,7 @@
 #binaries
 dist/
 yarn-error.log
+node_modules
 
 #editors
 .DS_Store
