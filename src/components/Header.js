@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from "react";
 
 export const Header = () => (
-    <div>
+	<div>
      FOOD BLOG HEADER
-    </div>
+	</div>
 );
