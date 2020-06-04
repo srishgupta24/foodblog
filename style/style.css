@@ -12,3 +12,12 @@
 .navbar li {
     float: none;
 }
+
+.dropdown-toggle {
+    background-color: transparent;
+    color: #007bff;
+    border: none;
+}
+.dropdown-menu {
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.3);
+}
